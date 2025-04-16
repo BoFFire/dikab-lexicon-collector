@@ -22,5 +22,5 @@ pip install -r requirements.txt
 ### Run the Collector
 
 ```
-python dikab_collector.py
+python dikabcollect.py
 ```
